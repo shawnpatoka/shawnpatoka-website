@@ -14,7 +14,7 @@ export default function SectionCurrentlyWorkingOn() {
       <div className="w-full text-white mt-10 px-4">
         <h3 className="text-2xl">Currently Working On</h3>
         <p className="text-white/80 mt-3">
-          Besides my day-to-day work, I love building and maintaining side projects to keep myself engaged and experiment with the latest technologies.
+          Besides my day-to-day work, I love building and maintaining side projects to keep myself engaged and experiment with the latest libraries and frameworks.
         </p>
       </div>
 
@@ -26,12 +26,12 @@ export default function SectionCurrentlyWorkingOn() {
           <div className="w-full sm:w-7/12 align-center">
             <h3 className="text-white text-xl">WorkFlow</h3>
             <p className="text-white/80 text-sm">
-              Developing a web application that helps service workers manage work orders and track their hours worked. Users can create work orders, assign them, and track progress. Integrates with Google Calendar and Slack.
+              Developing a web application that helps service workers manage work orders. Users can create work orders, assign them, and track progress. Integrates with Google Calendar and Slack.
             </p>
             <p className="text-white/90 text-sm mt-3 font-bold">Languages Used:</p>
-            <p className="text-white/80 text-sm">Python, Typescript, HTML, CSS</p>
+            <p className="text-white/80 text-sm">Python, TypeScript, HTML, CSS</p>
             <p className="text-white/90 text-sm mt-3 font-bold">Tech Used:</p>
-            <p className="text-white/80 text-sm mb-3">NextJS, Django / Django Rest Framework, NextAuth, JSON Web Tokens (JWT), AWS S3, PostgreSQL, Google Calendar API, Heroku</p>
+            <p className="text-white/80 text-sm mb-3">NextJS, Django / Django Rest Framework, NextAuth, JSON Web Tokens (JWT), TailwindCSS, AWS S3, PostgreSQL, Google Calendar API, Heroku</p>
             <p className="text-white text-sm mb-3 font-medium"><a href="https://dev.workflowapp.co" target="_blank"><FaLink className="inline-block mr-1" /> dev.workflowapp.co</a>  <a href="https://workflowapp.co" target="_blank"><FaLink className="inline-block ml-3 mr-1" /> workflowapp.co</a></p>
             <span className="text-xs px-3 py-1 bg-green-200/25 border border-green-200/50 rounded-full text-green-200 font-medium">MVP - In Use</span> <span className="text-xs px-3 py-1 bg-cyan-200/25 border border-cyan-200/50 rounded-full text-cyan-200 font-medium">In Development</span>
           </div>
@@ -49,9 +49,9 @@ export default function SectionCurrentlyWorkingOn() {
               Improved functionality, user experience, visual aesthetics, and mobile responsiveness by leading a redesign of the user interface for a talent booking web application that connects musical artists with different venues.
             </p>
             <p className="text-white/90 text-sm mt-3 font-bold">Languages Used:</p>
-            <p className="text-white/80 text-sm">Python, Javascript, HTML, CSS</p>
+            <p className="text-white/80 text-sm">Python, JavaScript, HTML, CSS</p>
             <p className="text-white/90 text-sm mt-3 font-bold">Tech Used:</p>
-            <p className="text-white/80 text-sm mb-3">Flask, Vue Components, PostgreSQL, SendGrid (Email API), Heroku</p>
+            <p className="text-white/80 text-sm mb-3">Flask, Vue Components, Bootstrap, PostgreSQL, SendGrid (Email API), Heroku</p>
             <span className="text-xs px-3 py-1 bg-green-200/25 border border-green-200/50 rounded-full text-green-200 font-medium">Live - In Use</span>
           </div>
         </div>
