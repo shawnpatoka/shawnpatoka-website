@@ -37,8 +37,9 @@ export default function SectionCurrentlyWorkingOn() {
               <div className="tooltip">
                 <a href="https://dev.workflowapp.co" target="_blank">
                   <span className="inline-block mr-1"><FaLink className="inline-block mr-1" /> dev.workflowapp.co</span>
-                  <span className="tooltiptext">Email me for demo<br />login credentials.</span>
                 </a>
+                <span className="tooltiptext">Email me for demo<br />login credentials:<br />s@shawnpatoka.com</span>
+
               </div>
               <a href="https://workflowapp.co" target="_blank"><FaLink className="inline-block ml-4 mr-1" /> workflowapp.co</a>
             </div>
