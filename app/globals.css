@@ -1,3 +1,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+  }
+
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: max-content;
+    background-color: #000;
+    color: #fff;
+    text-align: left;
+    border-radius: 4px;
+    padding: 1rem;
+    position: absolute;
+    z-index: 1;
+    bottom: 115%;
+    left: 15%;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
