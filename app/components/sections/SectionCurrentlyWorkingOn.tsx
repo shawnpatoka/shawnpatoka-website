@@ -34,14 +34,12 @@ export default function SectionCurrentlyWorkingOn() {
             <p className="text-white/80 text-sm mb-3">NextJS, Django / Django Rest Framework, NextAuth, JSON Web Tokens (JWT), TailwindCSS, AWS S3, PostgreSQL, Google Calendar API, Heroku</p>
 
             <div className="text-white text-sm mb-3 font-medium">
-              <div className="tooltip">
-                <a href="https://dev.workflowapp.co" target="_blank">
-                  <span className="inline-block mr-1"><FaLink className="inline-block mr-1" /> dev.workflowapp.co</span>
-                </a>
-                <span className="tooltiptext">Email me for demo<br />login credentials:<br />s@shawnpatoka.com</span>
-
-              </div>
-              <a href="https://workflowapp.co" target="_blank"><FaLink className="inline-block ml-4 mr-1" /> workflowapp.co</a>
+              <a href="https://dev.workflowapp.co" target="_blank" className="hover:text-blue-400 transition-colors">
+                <span className="inline-block mr-1"><FaLink className="inline-block mr-1" /> dev.workflowapp.co</span>
+              </a>
+              <a href="https://workflowapp.co" target="_blank" className="hover:text-blue-400 transition-colors">
+                <FaLink className="inline-block ml-4 mr-1" /> workflowapp.co
+              </a>
             </div>
 
             <span className="text-xs px-3 py-1 bg-green-200/25 border border-green-200/50 rounded-full text-green-200 font-medium">MVP - In Use</span> <span className="text-xs px-3 py-1 bg-cyan-200/25 border border-cyan-200/50 rounded-full text-cyan-200 font-medium">In Development</span>
