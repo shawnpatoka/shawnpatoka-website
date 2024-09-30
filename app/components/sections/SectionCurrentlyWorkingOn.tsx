@@ -45,7 +45,7 @@ export default function SectionCurrentlyWorkingOn() {
       </div>
 
 
-      <div className="hover:bg-white/5 hover:rounded-lg hover:ring-1 hover:ring-white/10 p-4 transition-all mt-8">
+      <div className="hover:bg-white/5 hover:rounded-lg hover:ring-1 hover:ring-white/10 p-4 transition-all mt-4">
         <div className="flex flex-col sm:flex-row gap-4">
           <div className="max-w-full sm:w-5/12 flex rounded-md">
             <ImageSlider images={workFlowImageThumbnails} />
