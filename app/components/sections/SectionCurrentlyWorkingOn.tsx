@@ -27,12 +27,9 @@ export default function SectionCurrentlyWorkingOn() {
           <div className="w-full sm:w-7/12 align-center">
             <h3 className="text-white text-xl">PassLink Pro</h3>
             <p className="text-white/80 text-sm">
-              A visitor management system designed for condo communities, currently serving over 500 active users at one location. Residents can manage visitors, gate attendants handle check-ins, and admins oversee all operations. Recurring visitors can check in easily by scanning a QR code.            </p>
-            <p className="text-white/90 text-sm mt-3 font-bold">Languages Used:</p>
-            <p className="text-white/80 text-sm">Python, JavaScript, HTML, CSS</p>
-            <p className="text-white/90 text-sm mt-3 font-bold">Tech Used:</p>
-            <p className="text-white/80 text-sm mb-3">Django / Django Rest Framework, Bootstrap, HTMX, AWS S3, AWS RDS PostgreSQL, SendGrid Email API, Heroku</p>
-
+              A complete visitor management system built for gated communities, serving over 900 active users. Residents manage their guests, gate attendants process check-ins, and visitors can self-check in at outdoor kiosks. Admins oversee all activity, while recurring visitors check in instantly by scanning a QR code.            </p>
+            <p className="text-white/90 text-sm mt-3 font-bold">Includes:</p>
+            <p className="text-white/80 text-sm mb-3">Web apps, native phone apps, outdoor kiosks</p>
             <div className="text-white text-sm mb-3 font-medium">
               <a href="https://passlinkpro.com" target="_blank" className="hover:text-blue-400 transition-colors">
                 <span className="inline-block mr-1"><FaLink className="inline-block mr-1" /> passlinkpro.com</span>
