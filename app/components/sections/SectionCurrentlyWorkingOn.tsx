@@ -27,7 +27,7 @@ export default function SectionCurrentlyWorkingOn() {
           <div className="w-full sm:w-7/12 align-center">
             <h3 className="text-white text-xl">PassLink Pro</h3>
             <p className="text-white/80 text-sm">
-              A complete visitor management system built for gated communities, serving over 900 active users. Residents manage their guests, gate attendants process check-ins, and visitors can self-check in at outdoor kiosks. Admins oversee all activity, while recurring visitors check in instantly by scanning a QR code.            </p>
+              Co-founder and founding developer of a full-stack visitor management system designed for gated communities, currently serving over 900 active users. Residents manage their guests and open gates and doors throughout the community using a modern web app or native mobile applications. Gate attendants handle on-site check-ins, and visitors can self-check in at outdoor kiosks using QR codes, while admins oversee all community activity through a centralized portal.           </p>
             <p className="text-white/90 text-sm mt-3 font-bold">Includes:</p>
             <p className="text-white/80 text-sm mb-3">Web apps, native phone apps, outdoor kiosks</p>
             <div className="text-white text-sm mb-3 font-medium">
