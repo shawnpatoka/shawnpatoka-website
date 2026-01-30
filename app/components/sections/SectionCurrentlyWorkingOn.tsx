@@ -5,7 +5,7 @@ import ImageSlider from "../ImageSlider";
 
 export default function SectionCurrentlyWorkingOn() {
 
-  const passLinkProThumbnails = ['/img/thumbnails/plp_001.jpg', '/img/thumbnails/plp_002.jpg']
+  const passLinkProThumbnails = ['/img/thumbnails/plp_001.jpg', '/img/thumbnails/plp_002.jpg', '/img/thumbnails/plp_003.jpg', '/img/thumbnails/plp_004.jpg']
   const workFlowImageThumbnails = ['/img/thumbnails/wf_001.jpg', '/img/thumbnails/wf_002.jpg', '/img/thumbnails/wf_003.jpg']
   const treblemonstersImageThumbnails = ['/img/thumbnails/tm_001.jpg', '/img/thumbnails/tm_002.jpg', '/img/thumbnails/tm_003.jpg']
 
