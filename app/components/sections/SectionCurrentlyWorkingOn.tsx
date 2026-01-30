@@ -27,7 +27,7 @@ export default function SectionCurrentlyWorkingOn() {
           <div className="w-full sm:w-7/12 align-center">
             <h3 className="text-white text-xl">PassLink Pro</h3>
             <p className="text-white/80 text-sm">
-              Co-founder and founding developer of a full-stack visitor management system designed for gated communities, currently serving over 900 active users. Residents manage their guests and open gates and doors throughout the community using a modern web app or native mobile applications. Gate attendants handle on-site check-ins, and visitors can self-check in at outdoor kiosks using QR codes, while admins oversee all community activity through a centralized portal.           </p>
+              Co-founder and founding developer of a full-stack visitor management system designed for gated communities, currently serving over 1000 active users. Residents manage their guests and open gates and doors throughout the community using a modern web app or native mobile applications. Gate attendants handle on-site check-ins, and visitors can self-check in at outdoor kiosks using QR codes, while admins oversee all community activity through a centralized portal.           </p>
             <p className="text-white/90 text-sm mt-3 font-bold">Includes:</p>
             <p className="text-white/80 text-sm mb-3">Web apps, native phone apps, outdoor kiosks</p>
             <div className="text-white text-sm mb-3 font-medium">
@@ -36,7 +36,7 @@ export default function SectionCurrentlyWorkingOn() {
               </a>
             </div>
 
-            <span className="text-xs px-3 py-1 bg-green-200/25 border border-green-200/50 rounded-full text-green-200 font-medium">Live - In Use</span> <span className="text-xs px-3 py-1 bg-cyan-200/25 border border-cyan-200/50 rounded-full text-cyan-200 font-medium">Native App In Development</span>
+            <span className="text-xs px-3 py-1 bg-green-200/25 border border-green-200/50 rounded-full text-green-200 font-medium">Live - In Use</span>
           </div>
         </div>
       </div>
